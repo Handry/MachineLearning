@@ -1,3 +1,6 @@
 # MachineLearning
+## Material de Clase
 Documentos de la Clase de Machine Learning de la Maestría de Ingeniería de la Universidad Libre
-_Ejemplos Aplicados_, **Librerias de python**
+- _Ejemplos Aplicados_,
+- **Librerias de python**
+- Etc
